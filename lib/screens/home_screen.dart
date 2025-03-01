@@ -19,7 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text("TODO LIST"),
+        title: const Text("Todo list"),
       ),
       body: Column(
         mainAxisSize: MainAxisSize.min,
